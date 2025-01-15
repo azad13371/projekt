@@ -1,13 +1,13 @@
-AI-Powered Health Diagnosis Assistant
+### AI-Powered Health Diagnosis Assistant
 
 
 Final project for the Building AI course
 
-Summary
+## Summary
 The AI-Powered Health Diagnosis Assistant is a platform designed to assist healthcare professionals in diagnosing medical conditions based on patient-reported symptoms. It uses AI techniques such as natural language processing and machine learning to suggest possible diagnoses and treatment options.
 
 
-Background
+## Background
 
 This project addresses several challenges in the healthcare industry:
   -Misdiagnosis: The potential for incorrect diagnoses due to the complexity of symptoms and human error.
